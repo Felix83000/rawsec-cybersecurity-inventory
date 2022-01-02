@@ -82,6 +82,15 @@
       "online": "False"
     },
     {
+      "name": "PwnFox",
+      "tool": "Burp Suite",
+      "source": "https://github.com/yeswehack/PwnFox",
+      "description": "This allow you to have multiple identities in the same browser using firefox containers and hightlight the profile used different colors",
+      "language": "JavaScript",
+      "price": "Free",
+      "online": "False"
+    },
+    {
       "name": "Sploitego",
       "tool": "Maltego",
       "source": "https://github.com/allfro/sploitego",
