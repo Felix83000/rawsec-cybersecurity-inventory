@@ -83,9 +83,9 @@
     },
     {
       "name": "PwnFox",
-      "tool": "Burp Suite",
+      "tool": "Burp Suite / Firefox",
       "source": "https://github.com/yeswehack/PwnFox",
-      "description": "This allow you to have multiple identities in the same browser using firefox containers and hightlight the profile used with different colors",
+      "description": "Allow to have multiple identities in the same browser using firefox containers and hightlight the profile used with different colors",
       "language": "JavaScript",
       "price": "Free",
       "online": "False"
